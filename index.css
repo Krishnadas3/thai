@@ -1,0 +1,480 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    width: 100%;
+}
+.two{
+    width: 76px;
+    height: 76px;
+    object-fit: cover;
+    margin-left: 280px;
+    margin-top: -700px;
+}
+.container ul{
+    display: flex;
+    justify-content: center;
+    margin-left: 336px;
+    margin-top: -690px;
+}
+ul li {
+    list-style: none;
+    margin-right: 20px;
+}
+ul li a {
+    text-decoration: none;
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #000000;
+}
+.container :hover{
+    color: #550e9b;
+}
+.text{
+    margin-left: 270px;
+    margin-top: 175px;
+}
+h1{
+    font-size: 60px;
+    line-height: normal;
+    font-weight: 200;
+    text-align: start;
+    letter-spacing: normal;
+    color: #000000;
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+}
+.h3{
+    margin-right: 400px;
+}
+h2{
+    font-size: 40px;
+    line-height: normal;
+    font-weight: 100;
+    margin-top: -12px;
+    text-align: start;
+    letter-spacing: normal;
+    color: #000000;
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+}
+.button {
+    background-color: #550e9b;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: transform 0.3s; /* Added transition property */
+  }
+  
+  .button:hover {
+    transform: scale(1.1); /* Zoom-in effect on hover */
+    background-color: white;
+    color: #550e9b;
+    border: 1px solid #550e9b;
+  }
+  
+  .button1 {
+    border-radius: 50px;
+    box-shadow: inset;
+    width: 150px;
+  }
+
+
+.container2{
+    margin-top: 56px;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: normal;
+    line-height: normal;
+    font-family: futura-lt-w01-book;
+}
+.container1 ul {
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+.container1 li {
+    margin-right: 60px;
+    position: relative;
+}
+
+.container1 li img {
+    margin-right: -30px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.container1 li img:hover {
+    transform: scale(1.1);
+}
+.container3 .ulu{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 117px;
+    margin-right: 120px;
+    margin-top: 9px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 45px;
+    margin-left: 103px;
+    margin-right: 105px;
+}
+.butt{
+    margin-right: 20px;
+}
+.container1 ul{
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 60px;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+}
+.button2{
+    margin-top: 100px ;
+    border-radius: 50px;
+    box-shadow: inset;
+    width: 150px;
+}
+.butt{
+    background-color:  white;
+    border: 1px solid #550e9b;
+    color: #550e9b;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    /* border-color: black; */
+    cursor: pointer;
+    /* transition: transform 0.3s; */
+    margin-top: 100px;
+    box-shadow: #000000;
+}
+.butt:hover {
+    /* transform: scale(1.1); Zoom-in effect on hover */
+    background-color: #550e9b;
+    color: white;
+    /* border: 1px solid #550e9b; */
+} 
+.our{
+    display: flex;
+    justify-content: center;
+    margin-top: 72px;
+}
+p{
+    font-family: futura-lt-w01-book;
+    font-size: 45px;
+    text-align: center;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.container5 ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    margin-left: 143px;
+    margin-right: 195px;
+}
+.three{
+    width: 174px;
+    height: 101px;
+}
+.text2{
+    margin-right: -56px;
+}
+.container6{
+    display: flex;
+    justify-content: center;
+    padding-top: 75px;
+}
+.dot {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+}
+.our1{
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+}
+.container6 ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 135     px;
+    margin-right: -75px;
+}
+.four{
+    width: 289px;
+    height: 520px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.text3{
+    margin-right: 45px;
+} 
+.buttons1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 17px;
+    margin-left: 58px;
+    margin-right: 60px;
+}
+.you {
+    background-color: #550e9b;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: transform 0.3s; /* Added transition property */
+  }
+  .buttons1 :hover{
+    transform: scale(1.1); /* Zoom-in effect on hover */
+    background-color: white;
+    color: #550e9b;
+    border: 1px solid #550e9b;
+  }
+  .me {
+    border-radius: 50px;
+    box-shadow: inset;
+    width: 150px;
+    margin-right: -29px;
+}
+.buttons1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 17px;
+    margin-left: 58px;
+    margin-right: 60px;
+}
+.you {
+    background-color: #550e9b;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: transform 0.3s; /* Added transition property */
+  }
+  .buttons1 .you:hover {
+    transform: scale(1.1); /* Zoom-in effect on hover */
+    background-color: white;
+    color: #550e9b;
+    border: 1px solid #550e9b;
+  }
+  .me {
+    border-radius: 50px;
+    box-shadow: inset;
+    width: 150px;
+    margin-right: -29px;
+}
+.container7 ul{
+    
+        display: flex;
+        /* justify-content: space-around; */
+        margin-left: 117px;
+        margin-right: 120px;
+        margin-top: 9px;
+}
+.babe1{
+    margin-top: 1px;
+    margin-left: 45px;
+}
+.babe2{
+    margin-left: 202px;
+    margin-top: 1px;
+
+}
+.babe3{
+    margin-left: 195px;
+    margin-top: 1px;
+
+}
+.babe4{
+    margin-left: 128px;
+    margin-top: 1px;
+}
+/* .container8{
+    display: flex;
+    justify-content: center;
+} */
+.container8{
+    margin-left: 297px;
+    margin-top: 145px;
+}
+.text5{
+    margin-left: 51%;
+    margin-top: -26%;
+}
+.p2{
+    padding-top: 40px;
+}
+
+.tex8{
+    margin-top: 30px;
+}
+.tex6{
+    margin-left: 327px;
+    margin-top: 67px;
+}
+.design{
+family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+ font-size: 32px;
+  line-height: 44.8px;
+   text-align: start;
+    letter-spacing: normal;
+}
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #550e9b;
+    border-radius: 30px;
+    box-sizing: border-box;
+    font-weight: bolder;
+  }
+  
+  input {
+    width: 20px;
+    background-color: white;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+    box-shadow: 0.00px 3.00px 17px 1px rgba(85,14,155,0.6);
+  }
+  
+  .container9 input:hover {
+    /* outline: none; */
+    border: none;
+    border-color: #550e9b;
+    box-shadow: 0.00px 3.00px 17px 1px rgba(85,14,155,0.6);
+  }
+  
+  .container9 {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    margin-left: 566px;
+  }
+  .text7{
+    display: flex;
+    justify-content: center;
+  }
+  .button3{
+    margin-top: 100px ;
+    border-radius: 50px;
+    box-shadow: inset;
+    width: 82px;
+}
+.buttu{
+    background-color: #550e9b;
+    border: 1px solid #550e9b;
+    color:  #ffffffff ;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    /* border-color: black; */
+    cursor: pointer;
+    /* transition: transform 0.3s; */
+    margin-top: 25px;
+    box-shadow: #000000;
+    margin-left: 520px;
+}
+.buttu:hover {
+    /* transform: scale(1.1); Zoom-in effect on hover */
+    background-color:#772fc0;
+    color:  #ffffffff;
+    /* border: 1px solid #550e9b; */
+} 
+.container10{
+    margin-top: 55px;
+    width: 100%;
+    background-color: #550e9b;
+    height: 70%;
+}
+.five{
+    margin-top: 41px;
+    /* background-color: #ffffffff; */
+    width: 109px;
+    height: 109px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    margin-left: 327px;
+}
+.hey{
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+    font-size: 32px;
+    line-height: 44.8px;
+    text-align: start;
+    letter-spacing: normal;
+    color: #ffffffff;
+    margin-left: 327px;
+    margin-top: 28px;
+}
+ .this{
+    margin-left: 327px;
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+    font-size: 17px;
+    line-height: 44.8px;
+    text-align: start;
+    letter-spacing: normal;
+    color: #ffffffff;
+    margin-right: 0px;
+}
+.that{
+    margin-left: 60%;
+    margin-top: -340px;
+    font-family: proxima-n-w01-reg, proxima-n-w05-reg, sans-serif;
+    font-size: 32px;
+    line-height: 44.8px;
+    text-align: start;
+    letter-spacing: normal;
+    color: #ffffffff;
+}
+.pic1{
+    margin-left: 564px;
+    margin-top: -107px;
+    width: 770px;
+    padding-top: 27px;
+    padding-left: -5px;
+}
